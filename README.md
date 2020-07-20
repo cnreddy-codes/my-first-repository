@@ -1,4 +1,5 @@
-# My first Readme.md file
-**Markdown language is used for marking up the text**     
-[Coursera](https://www.coursera.org)
-
+#Guessing Game, Make and Github Assigment
+##Myself Narendra and I appreciate your effort for reviewing
+  
+Date and time of the README.md file creation: **Tue Jul 21 01:15:02 IST 2020**  
+Number of lines in guessinggame.sh file: **27**
